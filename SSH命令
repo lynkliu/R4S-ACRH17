@@ -1,0 +1,3 @@
+CTRL+C
+cd openwrt && make menuconfig
+CTRL+D
